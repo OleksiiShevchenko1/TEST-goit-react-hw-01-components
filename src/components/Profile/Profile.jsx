@@ -1,5 +1,4 @@
 import React from 'react';
-import user from 'data/user.json';
 import PropTypes from 'prop-types';
 import styles from './Profile.module.scss';
 

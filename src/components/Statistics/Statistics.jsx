@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './Statistics.module.scss';
-import user from 'data/data.json';
 import generateRandomHexColor from 'utils/getRandomColors';
 
 export const Statistics = ({ stats }) => {
